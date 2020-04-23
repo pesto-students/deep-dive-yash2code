@@ -8,5 +8,3 @@ const curry = (fn) => {
 }
 
 export { curry }
-
-export { curry }
